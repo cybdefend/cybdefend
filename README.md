@@ -1,10 +1,10 @@
 ## Hello, I'm Arslan
 
-<a href="htts://www.linkedin.com/in/arslan-jilani/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arslan-jilani/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-After 16 years in technical support and incident management, I’m transitioning into cybersecurity with a strong interest in security operations, threat detection, and incident response. My career began in frontline Telecom support, where I developed deep troubleshooting skills, attention to detail, and a customer-first mindset. Over time, I progressed into senior technical roles, handling complex escalations, analyzing logs, documenting investigations, and resolving high-impact incidents under SLA-driven environments.
+A seasoned Technical Support professional After 16 years in technical support and incident management, I’m transitioning into cybersecurity with a strong interest in security operations, threat detection, and incident response. My career began in frontline Telecom support, where I developed deep troubleshooting skills, attention to detail, and a customer-first mindset. Over time, I progressed into senior technical roles, handling complex escalations, analyzing logs, documenting investigations, and resolving high-impact incidents under SLA-driven environments.
 
-To pivot into cybersecurity, I’ve been actively building hands-on experience through SOC training, home labs, and virtual cybersecurity programs. I’m developing practical skills in SIEM, log analysis, risk and vulnerability assessment, PowerShell, Python, Windows security, and networking, guided by security frameworks such as NIST CSF. 
+I’m now gaining hands-on cybersecurity experience through training, home labs, and virtual programs.
 
 ## Objective
 
