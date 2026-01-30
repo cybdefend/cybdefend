@@ -2,9 +2,7 @@
 
 <a href="https://www.linkedin.com/in/arslan-jilani/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A seasoned Technical Support professional After 16 years in technical support and incident management, I’m transitioning into cybersecurity with a strong interest in security operations, threat detection, and incident response. My career began in frontline Telecom support, where I developed deep troubleshooting skills, attention to detail, and a customer-first mindset. Over time, I progressed into senior technical roles, handling complex escalations, analyzing logs, documenting investigations, and resolving high-impact incidents under SLA-driven environments.
-
-I’m now gaining hands-on cybersecurity experience through training, home labs, and virtual programs.
+An experienced Technical Support Specialist with a passion for technology, upskilling, and solving complex technical problems. I’m currently transitioning into cybersecurity with a strong interest in security operations, threat detection, and incident response. 
 
 ## Objective
 
