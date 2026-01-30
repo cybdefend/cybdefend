@@ -1,6 +1,6 @@
 ## Hello, I'm Arslan
 
-<a href="htts://www.linkedin.com/in/arslan-jilani/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="htts://www.linkedin.com/in/arslan-jilani/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 After 16 years in technical support and incident management, I’m transitioning into cybersecurity with a strong interest in security operations, threat detection, and incident response. My career began in frontline Telecom support, where I developed deep troubleshooting skills, attention to detail, and a customer-first mindset. Over time, I progressed into senior technical roles, handling complex escalations, analyzing logs, documenting investigations, and resolving high-impact incidents under SLA-driven environments.
 
