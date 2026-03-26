@@ -10,18 +10,18 @@ My experience in technical support and enthusiasm for technology have led me to 
 
 ## Skills
 
-<!-- Use `git status` to list all new or modified files. [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!-- Use `git status` to list all new or modified files. [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/cybdefend/SOC-Automation-Project"> SOC Automation Project </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/cybdefend/SOC-Automation-Project"> SOC Automation Project </a>|
+| Case Management with TheHive                  | <a href="https://github.com/cybdefend/SOC-Automation-Project"> SOC Automation Project </a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cybdefend/SOC-Automation-Project"> SOC Automation Project </a>|
+<!-- | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| -->
 
---> 
+
 
 - Python, SQL, Powershell
 - Active Directory
@@ -81,5 +81,4 @@ Scripting and Automation for Threat Mitigation	SOC Automation Lab
 </div>
     
 ## Projects
-- Detection Lab
 - <a href="https://github.com/cybdefend/SOC-Automation-Project"> SOC Automation Project </a>
